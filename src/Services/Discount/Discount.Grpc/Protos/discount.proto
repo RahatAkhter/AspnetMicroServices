@@ -1,0 +1,42 @@
+syntax = "proto3";// we specify the language 
+
+option csharp_namespace = "Discount.Grpc.Protos";
+
+// first start the service in this case we use service name is DiscountProtoService
+// when ever we run the application the protobuff class convert this into c# classes
+service DiscountProtoService {
+
+	rpc GetDiscount (GetDiscountRequest) returns (CouponModel); //we exposing endpoints we use rpc protocol 
+
+	rpc CreateDiscount (CreateDiscountRequest) returns (CouponModel);
+	rpc UpdateDiscount (UpdateDiscountRequest) returns (CouponModel);
+	rpc DeleteDiscount (DeleteDiscountRequest) returns (DeleteDiscountResponse);	  
+}
+// here we are defining the GetDiscountRequest Defination 
+message GetDiscountRequest {
+  string productName = 1;
+  // if we have 2 properties we are defining this as string prop2 = 2;
+}
+
+message CouponModel {
+	int32 id = 1;
+	string productName = 2;
+	string description = 3;
+	int32 amount = 4;
+}
+
+message CreateDiscountRequest {
+  CouponModel coupon = 1;
+}
+
+message UpdateDiscountRequest {
+  CouponModel coupon = 1;
+}
+
+message DeleteDiscountRequest {
+  string productName = 1;
+}
+
+message DeleteDiscountResponse {
+  bool success = 1;
+}

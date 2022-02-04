@@ -18,3 +18,15 @@ C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\SharpCompress.dll
 C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\Catalog.API.pdb
 C:\Users\OSL\source\repos\AspnetMicroServices\src\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 C:\Users\OSL\source\repos\AspnetMicroServices\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\Basket.API.deps.json
+C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\Basket.API.runtimeconfig.json
+C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\Basket.API.runtimeconfig.dev.json
+C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\Basket.API.exe
+C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\Basket.API.dll
+C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\StackExchange.Redis.dll
+C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\OSL\source\repos\AspnetMicroServices\src\bin\Debug\Basket.API.pdb
+C:\Users\OSL\source\repos\AspnetMicroServices\src\obj\Debug\docker-compose.dcproj.CopyComplete

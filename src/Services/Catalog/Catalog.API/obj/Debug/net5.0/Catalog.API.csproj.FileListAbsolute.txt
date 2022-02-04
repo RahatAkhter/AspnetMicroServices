@@ -37,8 +37,8 @@ C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Catalog\Catalog.API\o
 C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\staticwebassets\Catalog.API.StaticWebAssets.xml
 C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\scopedcss\bundle\Catalog.API.styles.css
 C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.RazorTargetAssemblyInfo.cache
-C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.csproj.CopyComplete
 C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.dll
 C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\ref\Catalog.API.dll
 C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.pdb
 C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.genruntimeconfig.cache
+C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.csproj.AssemblyReference.cache

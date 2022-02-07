@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ordering.Domain\Ordering.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Behaviours\" /> <!--responsible for application behavuoirs like login behaiour validation behaviours-->
+    <Folder Include="Features\" /> <!--cqrs design patrn we will create a sub foldrs accodring to the requirements like getOrderByUser, checkout order this will be heart of the application --> <!--cover app cap inlcude all the abstraction interfaces for business usecases-->
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+</Project>

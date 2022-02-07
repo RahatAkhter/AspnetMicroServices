@@ -37,4 +37,3 @@ C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Discount\Discount.Grp
 C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\OSL\source\repos\AspnetMicroServices\src\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.csproj.CopyComplete
